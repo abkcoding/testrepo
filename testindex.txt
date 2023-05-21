@@ -1,3 +1,9 @@
-kfk world
+9yb9ymmh9mb9itih9m9tnbut 9b 9h 9tp  htpk9hy 9  k5 b9ky 95 9  9t  9tj k9 u9t  9  9 
 
-eo3v39f93tu84ni83nvu3tvitim
+echo "# testrepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/abkcoding/testrepo.git
+git push -u origin main
